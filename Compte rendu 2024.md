@@ -10,7 +10,7 @@
     
     Centre de Ressources Technologiques spécialisé dans les matériaux céramiques et leurs procédés de mise en forme associés (conventionnel & fabrication additive ) ainsi que dans les technologies d'écriture directe pour notamment le domaine de l'électronique imprimée. Bureau d'études, études R&D, analyses et caractérisations, prototypage, expertise, montée d'échelle, assistance à l'industrialisation, petites et moyennes séries de qualification, formation continue, recherche collaborative
 ```diff
-+ Rendez vous manqué : Mail à faire pour visioconférence
++ Rendez vous manqué : Mail à faire pour visioconférence , dossier attachée
 ``` 
 **Jérôme CLAUS Responsable Innovation**
     
@@ -22,7 +22,7 @@
     Fondateur**
     
 ```diff
-+ Va proposer une solution de moulage. Contactera Sylvain, NDA à prévoir 
++ Va proposer une solution de moulage silicone . Contactera Sylvain, NDA à prévoir 
 ```
 
 - 09:40 - 09:55 **UP&CHARGE**
@@ -45,48 +45,36 @@
   **Julien VÉZIER Responsable Commercial** 07 86 70 44 35 julien.vezier@selhagroup.com
  Nous développons un transformateur de puissance.
 
-Nous souhaiterions : Qualification du transformateur 
+Nous souhaiterions : 
+- Qualification du transformateur 
 
-Soutient à l’industrialisation. 
+- Soutient à l’industrialisation. 
 
+Ce que vous proposez : 
+- Optimisation et intégration du process / DFX et notamment DFM
 
-Ce que vous proposez : Optimisation et intégration du process / DFX et notamment DFM
+- Développement hard soft
 
-Développement hard soft
+- Mécanique (prototypage / intégration) sur petite série
 
-Mécanique (prototypage / intégration) sur petite série
-
-Intégration réalisable sur grande série
-
-
+- Intégration réalisable sur grande série
 
 
 Ce que nous proposons : Soutien à un thésard en vous fournissant un prototype TRL5 en partenariat avec vous. 
 
-Vos contacts : Université Amiens / Rouen / Caen  Ce sont les universités les plus proches, nous avons quelques contacts mais nous ne travaillons pas à proprement parler avec eux à ce jour. Néanmoins nous travaillons avec l’Esigelec qui est une école d’ingénieur en électronique basée à Rouen. Il me semble que nous avons également des liens avec l’INSA.
+Vos contacts : Université Amiens / Rouen / Caen   Ce sont les universités les plus proches, nous avons quelques contacts mais nous ne travaillons pas à proprement parler avec eux à ce jour. Néanmoins nous travaillons avec l’Esigelec qui est une école d’ingénieur en électronique basée à Rouen. Il me semble que nous avons également des liens avec l’INSA.
 
  
 
 Normandie incubation : il s’agit de l’incubateur de la recherche public normand. Nous sommes membres du CA.
 
- 
 
- 
-
-Julien VÉZIER
-
-Responsable Commercial
-
-Sales manager
-
-  +33 (0)7 86 70 44 35
-
-  via Teams
 
   www.selhagroup.com   
     - Nous développons un transformateur de puissance. Nous souhaitons le certifier aux diverses normes en la matière. Quelle est votre proposition ?
 ```diff
-+ + Doit faire une offre
++ Doit faire une offre
++ Dispose d'espace pour implanter des pilotes 
 ```
 - 10h20- 10h35 **INDO-MIM private ltd**
     
@@ -121,7 +109,7 @@ Nous privilégions à ce jour une impression céramique.
     
     Ouest Valorisation est le lien entre recherche publique et secteur socio-économique en Bretagne et Pays de la Loire depuis 2012. Finançant et accompagnant des technologies innovantes, nous facilitons leur adoption par les industriels, boostant ainsi la création de produits innovants et l'essor de start-ups.
     
-    10:40 - 10:55 **Pierre VALMIER Chargé de mission**
+    10:40 - 10:55 **Pierre VALMIER Chargé de mission** pierre.valmier@ouest-valorisation.fr 06 20 89 12 82 
     
     - **Notre besoin:**
     
@@ -130,12 +118,17 @@ Nous privilégions à ce jour une impression céramique.
     1 - Les bornes de recharge rapides pour véhicules électriques
     
     2 - Les applications plasma froid à la pression atmosphérique
+
+  ``` diff
+  + Lui demander la liste des labos de recherche 
+  + Puis relancer une fois la liste des procédés potentiels établis
+  ```
     
 - 11h -11h 15 **WATTANYWHERE**
     
     Notre besoin : Nous recherchons des partenariats pour offrir une solution complète “borne de recharge” . Nous développons un convertisseur DCDC de la classe 300 kW. Pouvons nous interfacer votre groupe électrogène (typiquement bus 800/1000 V) ?  Coût , approvisionnement en éthanol ? . Autres idées de synergie ? 
     
-    Groupe électrogène de 300 kW fournissant une électricité renouvelable pour alimenter des bornes de recharge rapide pour les véhicules électriques
+  Groupe électrogène de 300 kW fournissant une électricité renouvelable pour alimenter des bornes de recharge rapide pour les véhicules électriques
 
   philippe.ruez@wattanywhere.com
   Notre besoin : Nous recherchons des partenariats pour offrir une solution complète “borne de recharge” . Nous développons un convertisseur DCDC de la classe 300 kW. 
@@ -151,17 +144,19 @@ Nous souhaiterions :
 + La mise en container pour une sortie DC 1000V non régulée. 
 + Nous n’avons pas besoin de sortie triphasée
 + Nous pouvons nous réunir en visioconférence à votre convenance pour en rediscuter.
+
+- Actuellement développe la conversion par boost puis triphasé . Pourrait avoir des besoins que nous pourrions satisfaire
 ```    
 
-**Philippe RUEZ: Directeur de Projet**
+**Philippe RUEZ: Directeur de Projet** 06 12 66 71 02 
 philippe.ruez@wattanywhere.com
 
 
 - 11h40-11h55 **Pollen AM**    
     Imprimantes 3D ouvertes industrielles pour applications thermoplastiques, alliages métalliques et céramiques techniques.
 
-    **Didier FONTA Directeur général** df@pollen.am" <df@pollen.am>,
-                                       td@pollen.am" <td@pollen.am>
+    **Didier FONTA Directeur général** df@pollen.am  07 60 40 30 29
+    ## Thibaud Deshons Sale engineer 07 68 49 65 61    td@pollen.am" <td@pollen.am>
   
 ```diff
 Notre objectif est de fabriquer, de façon répétitive des pièces 3D identiques
@@ -188,7 +183,7 @@ Notre objectif est de fabriquer, de façon répétitive des pièces 3D identique
     
     Rapprocher les TPM/PME/ETI/Grands comptes x Startups et favoriser l'Open Innovation est une des grandes missions de l'équipe Innovation de la CCI Paris Ile-de-France. Comment ? Via nos nombreuses opérations dédiées à l'Open Innovation : Drimin' Saclay Connect Startups Club Startups Boost Event Learning Expeditions Projet Smart Territories Venez sur notre stand pour en savoir plus sur nos programmes !
 ``` diff
-  Non vu
++  Non vu
 ```  
     **Marion REVOL
     Ingénieur chef de projet**
@@ -230,7 +225,7 @@ Vous proposez :
     
     **Amal SHARMA Président-directeur général / Chef d'entreprise** amal.sharma@icloud.com
   ``` diff
-  visio 29/2/2024 14 h
+  + visio 29/2/2024 14 h
   ```
 
 - 14h-14h15 **MBDA**
@@ -241,13 +236,12 @@ Vous proposez :
     - Avez vous des besoins dans les procédés associés (plasmas froids)
     
     Développements technologiques dédiés aux composants mécaniques de systèmes de missile
-    
-  
-    **Léo DUMAS Responsable Open Innovation**
-    
 
     
-    - 14h20 -14h35 **Table 18**  -  Deepmake by Vitaminn https://www.deepmake.eu/ (Tunisie)
+  Léo Dumas 01 71 54 50 84 leo.dumas@mbda-systems.com
+    **Léo DUMAS Responsable Open Innovation**
+    
+    - 14h20 -14h35 **Deepmake** by Vitaminn https://www.deepmake.eu/ (Tunisie)
         
         Nous sommes à la recherche de partenariats sur deux sujets principaux:
         
@@ -257,14 +251,11 @@ Vous proposez :
         
         Conception et fabrication de prototypes hardware. Accompagnement à l'industrialisation. Accompagnement à l'entrée au marché (applications, positionnement produit, product-market fit).
         
-        14:20 - 14:35
+**Sophie GOMBART        Fondateur** sophie@vitaminn.tn +216 53 979 015 
         
-        ---
-        
-        **Sophie GOMBART
-        Fondateur**
-        
-        !https://techinnov.vimeet.events/media/cache/resolve/user_icon/uploads/2023/12/658193810ba28_sophie-small-lr.jpg
+- Elle était intéressée par motre approche (Methane -->H2 et désalination).
+- En contact avec des fabricants de méthaniseurs
+- Peut accompagner le développement des parties standard
         
 - 14h40-14h55 **Groupe 6NAPSE https://6-napse.com/**
     
