@@ -348,5 +348,5 @@ diff
      
     **Ipshita SINGH Responsable du développement** ipshita.singh@universite-paris-saclay.fr 07 67 01 14 59
 ``` diff
- + Nous a donné le lien vers la base de données laboratoires . A contacter directement [pluginglabs-universiteparissaclay.fr](https://www.pluginlabs-universiteparissaclay.fr/)https://www.pluginlabs-universiteparissaclay.fr/
+ + Nous a donné le lien vers la base de données laboratoires . A contacter directement https://www.pluginlabs-universiteparissaclay.fr
  ```  
