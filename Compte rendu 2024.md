@@ -240,8 +240,8 @@ Vous proposez :
     
   Léo Dumas 01 71 54 50 84 leo.dumas@mbda-systems.com
     **Léo DUMAS Responsable Open Innovation**
-    
-    - 14h20 -14h35 **Deepmake** by Vitaminn https://www.deepmake.eu/ (Tunisie)
+
+14h20 -14h35 **Deepmake** by Vitaminn https://www.deepmake.eu/ (Tunisie)
         
         Nous sommes à la recherche de partenariats sur deux sujets principaux:
         
