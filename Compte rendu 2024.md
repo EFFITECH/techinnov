@@ -81,7 +81,7 @@ Normandie incubation : il s’agit de l’incubateur de la recherche public norm
     Moulage par injection de métal Moulage à la cire perdue Moulage par injection de céramique Usinage de précision série Impression 3D metal Binder jetting Poudre métallique pour l'impression 3D Fabrication de gabarits de contrôle Fabrication de moules d'injection plastique
     
     **Ram KULKARNI Directeur commercial** ram.k@indo-mim.com +49 711 655 00243 M +49 152 042 76434
-    xavier.delattre@indomim-eu.com
+    xavier.delattre@indomim-eu.com 06 64 53 10 67
 Nous sommes en train d’industrialiser un transformateur. 350KW
 Notre objectif est de fabriquer, de façon répétitive des pièces 3D identiques
 
@@ -256,6 +256,10 @@ Vous proposez :
 - Elle était intéressée par motre approche (Methane -->H2 et désalination).
 - En contact avec des fabricants de méthaniseurs
 - Peut accompagner le développement des parties standard
+
+``` diff
++ Prévoir une visio conférence
+```
         
 - 14h40-14h55 **Groupe 6NAPSE https://6-napse.com/**
     
@@ -263,8 +267,7 @@ Vous proposez :
     
     Modélisation, simulation, études et analyses par nos laboratoires d'essais: Matériaux, Vibro-Acoustique, Mécanique, Chimie et Electronique de puissance
     
-    **Fabrice FOUQUER
-    Directeur commercial** f.fouquer@groupe-6napse.com
+    **Fabrice FOUQUER Directeur commercial** f.fouquer@groupe-6napse.com 06 74 41 56 69
 ```diff
 Pour faire suite à notre rdv nous vous invitons à visiter notre site www.effitech.eu pour voir nos générateurs 
 Sujets abordés: décarbonation / hydrogène vert
@@ -275,11 +278,11 @@ Votre besoin : besoin clients en développement
 Notre besoin :
 + Qualifier notre convertisseur en vue de levée de fond 
 
-N’hésitez pas à compléter
++ N’hésitez pas à compléter
 ```
     
     
-- 15h 15h15 **D28D**  -  H3Dynamics
+- 15h 15h15 **H3Dynamics**
     
     Notre interrogation :
     
@@ -288,16 +291,14 @@ N’hésitez pas à compléter
     
     Chez H3 Dynamics, nous sommes à la pointe de l'innovation dans le domaine de la sécurité et de la défense. Nous développons des drones alimentés par de l'hydrogène et proposons des applications de robotique et d'IA de pointe. Avec nos services de données automatisés et nos applications alimentées par l'IA, nous offrons des solutions pour les opérations de sécurité, de sureté (inspection industrielle). Notre infrastructure, comprenant la Drone Box facilite le déploiement rapide des drones.
     
-    15:00 - 15:15
     
-    ---
+    **Gontran REBOUD    Directeur commercial**
     
-    **Gontran REBOUD
-    Directeur commercial**
+``` diff
++ pas de besoin (intégrateur avec des drones et batteries standard
+```
     
-    !https://techinnov.vimeet.events/media/cache/resolve/user_icon/uploads/2024/02/65e06e3edf6d5_photo-portrait-gr-jpg.jpg
-    
-- 15h20-15h35 **Table 17**  -  Agence de Développement Nord Franche-Comté
+- 15h20-15h35 **Agence de Développement Nord Franche-Comté** 
     
     Nous sommes à la recherche de partenariats sur deux sujets principaux:
     
@@ -308,8 +309,7 @@ N’hésitez pas à compléter
     Situé à proximité de la Suisse et de l'Allemagne, le Nord Franche-Comté, Territoire d'Industrie et Territoire d'Innovation, tire son épingle du jeu avec plus d'un siècle d’industries (mobilités, énergie, hydrogène, santé, luxe), et vous offre des solutions à tous les stades de développement de votre projet. L'Agence de Développement économique Nord Franche-Comté vous accompagne dans vos projets ou votre implantation sur le territoire, de manière gratuite et confidentielle.
     
       
-    **Xavier DAMONGEOT
-    Chef de projet** xavier.damongeot@adnfc.fr
+    **Xavier DAMONGEOT Chef de projet** xavier.damongeot@adnfc.fr 03 39 03 49 04 et 06 73 87 82 17 
  
 Nous sommes spécialisé dans le conditionnements d’énergie. Nous avons développer un convertisseur 300kW 99% de rendement. (TRL7)
 Nous souhaitons développer des bornes de recharges clefs en main. 
@@ -322,20 +322,20 @@ Actuellement nous développons de nouvelles technologies relatives au conditionn
 Pour y parvenir nous souhaitons financer une thèse CIFRE avec un laboratoire spécialiste du procédé (si possible neutre en carbone , open source) et nous procurons à l’étudiant le support terrain sur les registres automation, jumeaux numérique et industriel de façon à parvenir à un procédé TRL7 en fin de thèse. Dans ce cadre nous fournissons des le début de la thèse un générateur haute tension original TRL7 ayant des capacités industrielles. 
 
 Notre besoin : dans le domaine de décarbonation , thésard  / laboratoires / procédés en rupture avec l’existant
-
++ Lui demander la liste des laboratoires de recherche
 ```    
 - 15h40-15h55 **DEMGY**
     
     DEMGY conçoit et fabrique des pièces plastiques et composites de haute performance, plus légères que le métal, pour favoriser les économies d'énergie. Notre offre circular MULTIPLASTURGY® nous permet de simplifier & de mettre en œuvre vos projets plastiques et composites, grâce à nos 14 domaines d'expertise. Nos 3 centres de R&D créent des procédés innovants de fabrication (Fabrication additive, Smart plastic products, CEM/EMI) pour concevoir des produits ou composants encore plus performants.
 
-    **Josef AL KHATIB Ingénieur technico-commercial** 	j.al-khatib@demgy.com
+    **Josef AL KHATIB Ingénieur technico-commercial** 	j.al-khatib@demgy.com 07 69 65 14 85 et 01 48 45 49 79
 diff
 ```
 + doit nous faire une offre : pièce usinée en deux parties puis collage qu'ils maîtrisent
 + lui fournir des donnnées sur le plasma froid pour aide au collage
-+ info fournie sur TC Poly  ( llapièce étant en deux partie on peut la traîter pour être waterproof"   
++ info fournit sur TC Poly  ( llapièce étant en deux partie on peut la traîter pour être waterproof"   
 ```    
-- 16h 16h20  **Table 28** -  Université Paris Saclay
+- 16h 16h20  **Université Paris Saclay**
     
     Nous sommes à la recherche de partenariats sur deux sujets principaux:
     
@@ -346,7 +346,7 @@ diff
     L’Université Paris-Saclay compte parmi les grandes universités européennes et mondiales, couvrant les secteurs des Sciences et Ingénierie, des Sciences de la Vie et Santé, et des Sciences Humaines et Sociales. Sa politique scientifique associe étroitement recherche et innovation pour répondre aux grands enjeux sociétaux. Pour ce faire, la cellule des partenariats reste à l'écoute de l'industrie pour identifier ses défis et y répondre le plus fidèlement possible.
     
      
-    **Ipshita SINGH Responsable du développement** ipshita.singh@universite-paris-saclay.fr
+    **Ipshita SINGH Responsable du développement** ipshita.singh@universite-paris-saclay.fr 07 67 01 14 59
 ``` diff
- + Nous a donné le lien vers la base de données laboratoires . A contacter directement
+ + Nous a donné le lien vers la base de données laboratoires . A contacter directement [pluginglabs-universiteparissaclay.fr](https://www.pluginlabs-universiteparissaclay.fr/)https://www.pluginlabs-universiteparissaclay.fr/
  ```  
